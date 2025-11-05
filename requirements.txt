@@ -1,0 +1,7 @@
+numpy
+torch
+Pillow
+open_clip_torch
+matplotlib
+umap-learn
+imageio
